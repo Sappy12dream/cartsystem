@@ -1,0 +1,21 @@
+@import './Navbar.scss';
+@import './Products.scss';
+@import './Product.scss';
+@import './ProductDetail.scss';
+@import './Cart.scss';
+$lg-purple: #EDD2F3;
+$lg-cream: #FFFCDC;
+$lg-blue: #84DFFF;
+$dr-blue: #516BEB;
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+
+.flex{
+    display: flex;
+}

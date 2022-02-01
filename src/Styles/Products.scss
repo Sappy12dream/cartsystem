@@ -1,0 +1,11 @@
+.products-wrap{
+    width: 80%;
+    margin: 0 auto;
+    height: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    justify-content: space-between;
+    column-gap: 10px;
+    row-gap: 10px;
+
+}

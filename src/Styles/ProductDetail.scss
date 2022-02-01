@@ -1,0 +1,30 @@
+.productDetails{
+    width: 80%;
+    height: calc(100vh - 90px);
+    margin: 0 auto;
+    padding-bottom: 20px;
+    img{
+        flex: 50%;
+        width: 100%;
+        height: 100%;
+        margin-right: 20px;
+    }
+    .disc{
+        .flex{
+            justify-content: space-between;
+            padding-bottom: 20px;
+
+        }
+        p{
+            padding: 10px 0;
+        }
+        button{
+            background-color: black;
+            color: aliceblue;
+            outline: none;
+            border: none;
+            border-radius: 5px;
+            padding: 10px;
+        }
+    }
+}

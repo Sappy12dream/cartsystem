@@ -1,0 +1,14 @@
+header{
+    width: 80%;
+    height: 90px;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: space-between;
+    .logo{
+        align-items: center;
+        text-transform: uppercase;
+        h1{
+            color: black;
+        }
+    }
+}
